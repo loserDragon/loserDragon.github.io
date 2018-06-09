@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的主页
 
 You can use the [editor on GitHub](https://github.com/loserDragon/loserDragon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+**我是** _学习—_
 1. Numbered
 2. List
 
